@@ -94,7 +94,7 @@ html,body {
 	transition-delay:1s;
 	z-index: 350;
 }
-#name,#email,#phone,#messarea,#send{
+#name,#email,#phone,#message,#send{
 	margin: 0;
 	padding: 0 0 0 10px;
 	width: 570px;
@@ -107,7 +107,7 @@ html,body {
 	border-bottom:1px solid #bdbdbd;
 	letter-spacing: normal;
 }
-#messarea{
+#message{
 	height: 117px;
 	width: 560px;
 	overflow: auto;
